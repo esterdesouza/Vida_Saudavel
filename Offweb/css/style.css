@@ -423,3 +423,21 @@ DADOS
 .bannerDados div img {
     width: 40%;
 }
+/*====================================================
+======================================================
+PERIGOS
+======================================================
+======================================================*/
+
+.perigosCor {
+    background-color: #540B24;
+}
+section.inicioEster {
+    display: flex;
+    margin: 0vw 2vw 0vw 2vw;
+    align-items: center;
+    
+}
+section.inicioEster h1{
+ font-size: 2.5rem;
+}
